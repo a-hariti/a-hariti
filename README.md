@@ -1,4 +1,6 @@
-### Hi there 👋
+![Twitter cover](https://user-images.githubusercontent.com/17055517/159127013-9b2feb29-72b5-4cb0-95cc-b1dd32a56966.png)
+
+### Hi 👋
 
 My name is Abdellah, I am a self taught full stack web devloper (thanks to thousands of online teachers 😊).
 
